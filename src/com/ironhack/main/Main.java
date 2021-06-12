@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args){
         String productName = " Producto uno      ";
-        String date = "17 Jun ";
+        String date = "17/06/2021 ";
 
         System.out.println(productFormatter(productName, date));
 
