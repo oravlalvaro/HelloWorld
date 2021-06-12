@@ -4,17 +4,15 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args){
-//        String productName = " Producto uno      ";
-//        String date = "17 Jun ";
-//
-//        System.out.println(productFormatter(productName, date));
+        String productName = " Producto uno      ";
+        String date = "17 Jun ";
+
+        System.out.println(productFormatter(productName, date));
 
         int[] numbers = {5,4,3,2,1};
-
         ej1(numbers);
 
         int[] numbers2 = {1,2,3,4,5};
-
         ej2_1(numbers2);
 
         int[] numbers3 = {1,2,3,4,5};
